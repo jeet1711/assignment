@@ -1,0 +1,38 @@
+div {
+  background-color: linear-gradient(rgb(8, 0, 55), rgb(79, 0, 96));
+}
+
+img {
+  float: right;
+  height: 500px;
+  width: 300px;
+}
+
+button {
+  float: right;
+  background-color: red;
+  margin: 5% 2% 5% 3%;
+  font-size: 1rem;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+
+.working-button{
+  background-color: red;
+  margin: 5% 2% 5% 3%;
+  font-size: 1rem;
+  float: left;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
